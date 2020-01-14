@@ -1,0 +1,23 @@
+{
+  "name": "phenomenom-test-propagation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dherault/Phenomenom-MovementRangeSurface-Test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dherault/Phenomenom-MovementRangeSurface-Test/issues"
+  },
+  "homepage": "https://github.com/dherault/Phenomenom-MovementRangeSurface-Test#readme",
+  "devDependencies": {
+    "serve": "^11.3.0"
+  }
+}
